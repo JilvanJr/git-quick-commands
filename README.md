@@ -22,4 +22,10 @@ $ git status
 # incluindo um comentário no arquivo recem adicionado
 $ git commit -m "update README.md"
 $ git status
+
+# enviar as modificações para o repositório remoto
+$ git push origin master
+
+# baixar arquivos do repositório remoto
+$ git pull origin master
 ```
