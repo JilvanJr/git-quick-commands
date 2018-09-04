@@ -12,6 +12,14 @@
 Os comandos devem ser executados no diretório do projeto.
 
 ```bash
+# verificando arquivos modificados
+$ git status
+
 # adicionando um arquivo
-$
+$ git add NOME_DO_ARQUIVO
+$ git status
+
+# incluindo um comentário no arquivo recem adicionado
+$ git commit -m "update README.md"
+$ git status
 ```
