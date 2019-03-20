@@ -28,4 +28,18 @@ $ git push origin master
 
 # baixar arquivos do repositório remoto
 $ git pull origin master
+
+- Comandos para clonar projeto
+
+# Mostra qual página se encontra
+$ pwd
+
+# Entra na página desejada para baixar o projeto
+$ cd Desktop/ 
+
+# Clonar projeto
+$ git clone https://github.com/JilvanJr/git-quick-commands.git
+
+# Arquivo é baixado
+
 ```
