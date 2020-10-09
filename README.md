@@ -42,4 +42,8 @@ $ git clone https://github.com/JilvanJr/git-quick-commands.git
 
 # Arquivo é baixado
 
+# Quando deseja baixar os arquivos e atualizar o repositório porém tem coisas para subir, é necessario rodar o comando para limpar as alterações e poder realizar o git pull
+$ git reset --hard
+
+
 ```
